@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiViaje</string>
+    <string name="title_activity_luis_maps">luisMapsActivity</string>
 </resources>
